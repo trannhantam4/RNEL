@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335449364712",
+    "project_id": "rnel-ecd86",
+    "storage_bucket": "rnel-ecd86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335449364712:android:aa394ab0896874ce72515d",
+        "android_client_info": {
+          "package_name": "com.trannhantam4.RNEL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335449364712-0j520s0kr02n1audqrngpetspa4v5tiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLxkfKiusETQ4b40J4Dp1f3W2pa2Df6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335449364712-0j520s0kr02n1audqrngpetspa4v5tiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
